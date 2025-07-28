@@ -1,0 +1,30 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_002",
+        "test_case_name": "Adobe Acrobat Learning"
+    },
+    "documents": [
+        {
+            "filename": "Learn Acrobat - Create and Convert_1.pdf",
+            "title": "Learn Acrobat - Create and Convert_1"
+        },
+        {
+            "filename": "Learn Acrobat - Create and Convert_2.pdf",
+            "title": "Learn Acrobat - Create and Convert_2"
+        },
+        {
+            "filename": "Learn Acrobat - Edit_1.pdf",
+            "title": "Learn Acrobat - Edit_1"
+        },
+        {
+            "filename": "Learn Acrobat - Edit_2.pdf",
+            "title": "Learn Acrobat - Edit_2"
+        }
+    ],
+    "persona": {
+        "role": "HR Professional"
+    },
+    "job_to_be_done": {
+        "task": "Create and manage fillable forms for onboarding and compliance"
+    }
+}

@@ -1,0 +1,309 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf"
+        ],
+        "persona": "HR Professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
+        "processing_timestamp": "2025-07-28T17:20:00.411717"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Convert a file to PDF using PDFMaker",
+            "importance_rank": 1,
+            "page_number": 13
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a blank PDF",
+            "importance_rank": 2,
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Convert a file to PDF",
+            "importance_rank": 3,
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Do Not Include Folder Name Information",
+            "importance_rank": 1,
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Create PDFs by printing to file",
+            "importance_rank": 2,
+            "page_number": 11
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Application-specific PDFMaker settings",
+            "importance_rank": 3,
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "section_title": "Change, replace, or delete text",
+            "importance_rank": 1,
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "section_title": "Edit text in a PDF",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "section_title": "the handle to resize the text block.",
+            "importance_rank": 3,
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "section_title": "",
+            "importance_rank": 1,
+            "page_number": 4
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "section_title": "Extract pages from a PDF",
+            "importance_rank": 2,
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "section_title": "Enhance scanned file or camera images for",
+            "importance_rank": 3,
+            "page_number": 15
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "In Windows, Acrobat installs both an Acrobat PDFMaker toolbar and an Adobe PDF menu in",
+            "page_number": 13
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "many popular authoring applications. You can use either the toolbar buttons or the Adobe",
+            "page_number": 13
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "PDF menu (the Action menu in Lotus Notes) to create PDFs, but the menu also provides access",
+            "page_number": 13
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "to conversion settings. Although many of the conversion options are common to all authoring",
+            "page_number": 13
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning.",
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "This process can be useful for creating a one-page PDF. For longer, more complex, or heavily",
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "formatted documents, it’s better to create the source document in an application that offers",
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "more layout and formatting options, such as Adobe InDesign or Microsoft Word.",
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "1. Open the file in the application used to create it.",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "2. Select the Convert To Adobe PDF button",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "on the Acrobat PDFMaker toolbar.",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "When selected, excludes mail folder names from PDFs.",
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "Embed Index For Faster Search",
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "Creates an embedded index, which speeds up searches, especially when you convert large",
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "numbers of email messages or message folders.",
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "In many authoring applications, you can use the Print command with the Adobe PDF printer to",
+            "page_number": 11
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "convert your file to PDF. Your source document is converted to PostScript and fed directly to",
+            "page_number": 11
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "Distiller for conversion to PDF, without manually starting Distiller. The current Distiller",
+            "page_number": 11
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "preference settings and Adobe PDF settings are used to convert the file. If you’re working with",
+            "page_number": 11
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "Sometimes the conversion settings in one PDFMaker-enabled application are different from the",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "settings in a different application.",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "Some PDFMaker settings are common to several or most applications. Some options are unique",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "to a specific application.",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "When you edit text, the text in the paragraph reflows within its text box to accommodate the",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "changes. Each text box is independent, and inserting text in one text block doesn’t push down",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "an adjacent text box or reflow to the next page.",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "1. Select Edit in the global bar.",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "Open the PDF you want to edit in Acrobat, and then select Edit in the global bar.",
+            "page_number": 1
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "The PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a",
+            "page_number": 1
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "scanned document, Acrobat automatically runs OCR to make the text and images editable.",
+            "page_number": 1
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "Add or edit lists",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "You can add items to a numbered or bulleted list, create list items, convert a paragraph to a",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Edit_1.pdf",
+            "refined_text": "list item, and conversely. You can also change list types.",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "Select the Extract pages   under PAGE OPTIONS.",
+            "page_number": 4
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "3. In the dialog, select one or more of the following before you select Extract:",
+            "page_number": 4
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "•",
+            "page_number": 4
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "Extraction is reusing selected pages of one PDF in a different PDF. Extracted pages include the",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "content and the form fields, comments, and links of the original document.",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "You can leave the extracted pages in the original document or remove them during",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "extraction.",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "clear PDFs",
+            "page_number": 15
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "You can capture document photos with your smartphone and use the Enhance camera",
+            "page_number": 15
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "image feature to create polished, clear, and compact PDFs without needing a standard",
+            "page_number": 15
+        },
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "scanner. This feature addresses common issues in mobile-captured images, such as incorrect",
+            "page_number": 15
+        }
+    ]
+}
