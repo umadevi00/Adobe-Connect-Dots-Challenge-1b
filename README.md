@@ -119,10 +119,8 @@ docker build --platform linux/amd64 -t pdf-processor .
 ### Run the Container on All Collections
 
 ```
-docker run --rm \
--v "C:/Users/umadevi/challenge_1b:/app/input:ro" \
--v "C:/Users/umadevi/challenge_1b_outputs:/app/output" \
---network none pdf-processor
+docker run --rm -v $(pwd)/challenge_1b:/app/input:ro -v $(pwd)/challenge_1b_outputs:/app/output --network none pdf-processor
+
 ```
 
 All processed outputs will be saved in:
