@@ -1,0 +1,31 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_003",
+        "test_case_name": "create_manageable_forms",
+        "description": "Creating manageable forms"
+    },
+    "documents": [
+        {
+            "filename": "South of France - Cities.pdf",
+            "title": "South of France - Cities"
+        },
+        {
+            "filename": "South of France - Cuisine.pdf",
+            "title": "South of France - Cuisine"
+        },
+        {
+            "filename": "South of France - History.pdf",
+            "title": "South of France - History"
+        },
+        {
+            "filename": "South of France - Restaurants and Hotels.pdf",
+            "title": "South of France - Restaurants and Hotels"
+        }
+    ],
+    "persona": {
+        "role": "HR professional"
+    },
+    "job_to_be_done": {
+        "task": "Create and manage fillable forms for onboarding and compliance."
+    }
+}

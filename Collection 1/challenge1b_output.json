@@ -1,0 +1,329 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-28T17:19:59.946409"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Comprehensive Guide to Major Cities in the South of France",
+            "importance_rank": 1,
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Overview of the Region",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Marseille: The Oldest City in France",
+            "importance_rank": 3,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "A Culinary Journey Through the South of France",
+            "importance_rank": 1,
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "Types of Food",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "Famous Dishes",
+            "importance_rank": 3,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - History.pdf",
+            "section_title": "A Historical Journey Through the South of France",
+            "importance_rank": 1,
+            "page_number": 0
+        },
+        {
+            "document": "South of France - History.pdf",
+            "section_title": "Marseille: The Oldest City in France",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - History.pdf",
+            "section_title": "Nice: The Jewel of the French Riviera",
+            "importance_rank": 3,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Comprehensive Guide to Restaurants and Hotels in the South of France",
+            "importance_rank": 1,
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Restaurants",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Family-Friendly Restaurants",
+            "importance_rank": 3,
+            "page_number": 2
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Introduction",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "The South of France, known for its stunning landscapes, Mediterranean coastline, and rich",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "cultural heritage, is home to some of the most beautiful and historically significant cities in the",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "country. This guide provides an in-depth look at the major cities in the South of France,",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur,",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Occitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes,",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "from the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "the rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "History",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "location on the Mediterranean coast made it a vital trading port throughout history. The city's",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Over the",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "Introduction",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "The South of France, known for its stunning landscapes and charming villages, is also a",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "paradise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors,",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "fresh ingredients, and traditional recipes passed down through generations. This guide will",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "The cuisine in the South of France is diverse, reflecting the region's rich history and cultural",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "influences. Here are some key types of food you can expect to find:",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "•",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "Seafood: With its extensive coastline, the South of France oﬀers an abundance of fresh",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "The South of France is home to many iconic dishes that you must try during your visit:",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "•",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish,",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "shellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "Introduction",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "The South of France, renowned for its picturesque landscapes, charming villages, and",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "stunning coastline, is also steeped in history. From ancient Roman ruins to medieval",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "fortresses and Renaissance architecture, this region oﬀers a fascinating glimpse into the past.",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "location on the Mediterranean coast made it a vital trading port throughout history. The city's",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere.",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "Key Historical Sites in Marseille",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "Nice, located on the French Riviera, has been a popular destination for centuries. Its history",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "dates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "Roman colony and has since evolved into a glamorous resort town.",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "Key Historical Sites in Nice",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Introduction",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "cuisine, is a dream destination for travelers. From the glamorous beaches of the French",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Riviera to the charming villages of Provence, this region oﬀers a diverse array of experiences.",
+            "page_number": 0
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Budget-Friendly Restaurants",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "•",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Chez Pipo (Nice): Famous for its socca, a traditional Niçoise chickpea pancake, this",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "casual eatery oﬀers delicious and aﬀordable local dishes. The rustic ambiance and",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "•",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Club 55 (Saint-Tropez): This iconic beach club oﬀers a relaxed, family-friendly",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "atmosphere with a menu featuring fresh seafood and Mediterranean dishes. The",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "beachside location and casual vibe make it perfect for families.",
+            "page_number": 2
+        }
+    ]
+}
